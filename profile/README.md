@@ -1,4 +1,4 @@
-![Inverted Pendulum Robot](.github/profile/robot.png)
+![Robot](https://raw.githubusercontent.com/Inverted-Pendulum-Team-3/.github/main/profile/robot.png)
 
 A two-wheeled self-balancing robot designed and built as part of the ECEN 403/404 senior capstone sequence. The robot leverages the inverted pendulum principle to maintain upright stability while carrying a 3 lb payload on a 65 cm pendulum, using real-time sensor feedback and a PID control algorithm running on a Raspberry Pi 4.
 
