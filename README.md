@@ -1,4 +1,5 @@
 Inverted Pendulum Robot -- Team 3
+
 A two-wheeled self-balancing robot designed and built as part of the ECEN 403/404 senior capstone sequence. The robot leverages the inverted pendulum principle to maintain upright stability while carrying a 3 lb payload on a 65 cm pendulum, using real-time sensor feedback and a PID control algorithm running on a Raspberry Pi 4.
 Overview
 The system fuses data from a BNO085 IMU, two AMT10 rotary encoders, and two HC-SR04 ultrasonic sensors into a 100 Hz real-time pipeline via shared memory. A Sabertooth 2x12 motor controller drives two DC motors powered by a 22.2V LiPo battery, with a custom buck converter PCB providing regulated 5V and 3.3V logic rails. A Flask-based web application running on the Raspberry Pi enables remote monitoring, live sensor visualization, and real-time PID gain tuning over Wi-Fi.
