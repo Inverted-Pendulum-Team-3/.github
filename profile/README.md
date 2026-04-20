@@ -28,4 +28,4 @@ Hardware
 Software
 - Python-based codebase including PID control, sensor drivers, shared memory data fusion, and a Flask web server.
 
-<img src="https://raw.githubusercontent.com/Inverted-Pendulum-Team-3/.github/main/profile/robot.png" width="300"/>
+                                  <img src="https://raw.githubusercontent.com/Inverted-Pendulum-Team-3/.github/main/profile/robot.png" width="300"/>
